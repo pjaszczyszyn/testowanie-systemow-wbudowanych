@@ -12,13 +12,13 @@ scenariuszy testowych, ich implementacji, automatyzacji oraz
 raportowania wyników dla systemów wbudowanych. Ćwiczenia praktyczne
 zaznajomią dodatkowo uczestników z procesem debugowania, poprawiania
 błędów w oprogramowaniu oraz integracją wprowadzonych poprawek z kodem
-głównym.
+głównyqm.
 
 Proponowany przedmiot stanowi uzupełnienie wiedzy zdobytej przez
 studentów w ramach innych przedmiotów podczas studiów. Osoby, które
-ukończą kurs realizowany w ramach przedmiotu, będą posiadały wiedzę i
-umiejętności pozwalające na podjęcie stażu/pracy w firmie Intel na
-stanowisku Software Validation Test Engineer.
+ukończą ten przedmiot będą posiadały wiedzę i umiejętności
+pozwalające na podjęcie stażu/pracy w firmie Intel na stanowisku
+Software Validation Test Engineer.
 
 **Wymagania:**
 
