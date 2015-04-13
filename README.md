@@ -12,7 +12,7 @@ scenariuszy testowych, ich implementacji, automatyzacji oraz
 raportowania wyników dla systemów wbudowanych. Ćwiczenia praktyczne
 zaznajomią dodatkowo uczestników z procesem debugowania, poprawiania
 błędów w oprogramowaniu oraz integracją wprowadzonych poprawek z kodem
-głównyqm.
+głównym.
 
 Proponowany przedmiot stanowi uzupełnienie wiedzy zdobytej przez
 studentów informatyki w ramach innych przedmiotów podczas
