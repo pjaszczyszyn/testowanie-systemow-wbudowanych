@@ -3,8 +3,7 @@
 Celem przedmiotu jest przygotowanie studentów do projektowania oraz
 implementacji scenariuszy testowych dla systemów wbudowanych ze
 szczególnym zaakcentowaniem podejścia *Internet of Things*
-(http://www.intel.com/content/www/us/en/internet-of-things/overview.html)
-(*IoT*, Internet przedmiotów/rzeczy).
+(*IoT*, Internet przedmiotów/rzeczy; http://www.intel.com/content/www/us/en/internet-of-things/overview.html).
 
 Studenci, w ramach wykładów oraz zajęć laboratoryjnych prowadzonych
 przez pracowników UG oraz doświadczonych inżynierów firmy Intel, będą
@@ -65,7 +64,7 @@ Engineer.
 4. Automatyzacja testów.
   - Przygotowanie skryptów automatyzujących testowanie.
   - Automatyzacja analizy wyników testowych.
-  - Dodanie testów do repozytorium z kodem.
+  - Dodawanie testów do repozytorium z kodem.
 5. Raportowanie i ocena wyników testów.
   - Raportowanie znalezionych błędów do bazy *BugZilla*.
   - Metryki jakości oprogramowania.
