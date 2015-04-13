@@ -49,7 +49,7 @@ stanowisku Software Validation Test Engineer.
 2. Opracowywanie przypadków testowych.
   - Zapoznanie się z dokumentacją dostarczonego projektu.
   - Specyfikacja wymagań na podstawie dokumentacji technicznej.
-  - Przygotowanie scenariuszy testowych
+  - Przygotowanie scenariuszy testowych.
   - Przygotowanie środowiska i uruchomienie projektu na podstawie
     dostarczonej dokumentacji (brak dostępu do kodu).
 3. Implementacja środowiska testowego.
@@ -77,7 +77,7 @@ stanowisku Software Validation Test Engineer.
   - Statyczna analiza kodu testowanego projektu.
   - Analiza fragmentów związanych z obszarami w których znaleziono problemy.
 7. Debugowanie i usuwanie defektów.
-  - Bugscrub – analiza defektów zgłoszonych przez wszystkie zespoły.
+  - *Bugscrub* – analiza defektów zgłoszonych przez wszystkie zespoły.
     W czasie bugscrub’a identyfikujemy duplikaty defektów i rozdzielamy
     je na poszczególne grupy.
   - Reprodukcja znalezionych problemów na podstawie opisu z Bugzilla.
@@ -88,10 +88,10 @@ stanowisku Software Validation Test Engineer.
 8. Zarządzanie zmianami w kodzie (*change management*) – dodawanie nowej funkcjonalności.
   - Wprowadzenie wymagań na nową funkcjonalność.
   - Określenie nowych przypadków testowych.
-  - Dodane nowych testów.
+  - Dodawanie nowych testów.
   - Funkcjonalność wprowadzana w oparciu o *Agile* powinna być
     zaimplementowana w jakości produkcyjnej. Odbiór przez *Product Ownera*.
-  - Implementacja
+  - Implementacja.
 9. Testowanie regresji (laboratorium zdalne).
   - Automatyczne testy regresji (laboratorium 3).
   - Testowanie nowej funkcjonalności (laboratorium 7).
