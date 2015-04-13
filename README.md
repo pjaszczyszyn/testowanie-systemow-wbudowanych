@@ -15,10 +15,10 @@ błędów w oprogramowaniu oraz integracją wprowadzonych poprawek z kodem
 głównyqm.
 
 Proponowany przedmiot stanowi uzupełnienie wiedzy zdobytej przez
-studentów w ramach innych przedmiotów podczas studiów. Osoby, które
-ukończą ten przedmiot będą posiadały wiedzę i umiejętności
-pozwalające na podjęcie stażu/pracy w firmie Intel na stanowisku
-Software Validation Test Engineer.
+studentów informatyki w ramach innych przedmiotów podczas
+studiów. Osoby, które ukończą ten przedmiot będą posiadały wiedzę i
+umiejętności pozwalające na podjęcie stażu/pracy w firmie Intel na
+stanowisku Software Validation Test Engineer.
 
 **Wymagania:**
 
