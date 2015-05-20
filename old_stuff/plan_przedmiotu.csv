@@ -1,0 +1,61 @@
+lab/wyk;nr;czas;temat;cel zajęć;ocena studenta;prework;detale zajęć;dependencje
+Lab;1;4;Intel Galileo Workshop - konfiguracja środowiska;"uruchomiona konfiguracja sprzetowa
+wgrana poprawna wersja FW
+getdeviceID passed
+ping do  komponentów passed";czy wszystkie testy passed;"zapoznanie z dokumentami
+jak zestawic galileo (youtube?)";zapoznanie z platforma;"Specyfikacja produktu
+Konfiguracja HW
+Spec Galileo
+Spec Sensorów
+działający FW
+interfejsy komunikacji"
+Lab;2;4;Specyfikacja testowa / Testy manualne;"na co zwracac uwage piszac test spec
+wystawianie defektów
+exploratory testing (nowe testy)";"ocena test spec'a
+ocena defektów";"lab 1 (jeśli nie jest ready student musi uzupelnic)
+napisac test spec";"test spec wybranej funkcjonalnosci w oparciu o przykladowy test spec jednej z funkcji
+wykonanie i zaraportowanie testów / wystawienie defektów";"wymagania
+przykładowy test spec
+bugzilla"
+Lab;3;4;Testy automatyczne;integracja skryptów i raportowanie wyników;"jakosc skryptów 
+znalezione defekty";"zapoznanie się ze srodowiskiem testowym
+przygotowanie skryptów na podstawie test spec'a";"implementacja skryptów i dodanie do repo
+wykonywanie i analiza wyników
+raportowanie defektów";"środowisko testowe
+przykladowe testy
+repo testów
+remote connection "
+Lab;4;4;Testy automatyczne;"integracja skryptów i raportowanie wyników
+stworzenie BVT";"jakosc skryptów 
+znalezione defekty";"zapoznanie się ze srodowiskiem testowym
+przygotowanie skryptów na podstawie test spec'a";"implementacja skryptów i dodanie do repo
+wykonywanie i analiza wyników
+raportowanie defektów";"środowisko testowe
+przykladowe testy
+repo testów
+remote connection "
+Lab;5;4;Bugscrub / konfiguracja środowiska dev i zapoznanie z kodem;"ustalenie wspolnej listy defektów
+podział między grupy
+dostarczenie ""require info """;jakość opisów testów;;;"repo kodu
+build system
+BVT"
+Lab;6;4;Debuggowanie i fixowanie defektów;zlokalizowanie i zafixowanie przydzielonych defektów, commit do wspólnego repo;ile defektów fixed / jakość fixów ?;analiza defektów / statyczna analiza kodu / metody debuggowania;;
+Lab;7;4;Debuggowanie i fixowanie defektów;zlokalizowanie i zafixowanie przydzielonych defektów, commit do wspólnego repo;ile defektów fixed / jakość fixów ?;analiza defektów / statyczna analiza kodu / metody debuggowania;;
+Lab;8;4;Change management / test driven dev - przygotowanie testów ;przygotowanie API i uruchomienie testów;;przygotowanie test spec'a i skryptów ;"sprawdzenie droznosci testów
+API powinno działać / funkcje blednie lub wcale";definicja Crów
+Lab;9;4;Change management / implementacja feature'a;napisanie i bugfixing w oparciu o testy, commit do wspolnego kodu;zero defects;gotowe testy i koncepcja implementacji feature'a;implementacja funkcji w taki sposób aby przeszła testy;
+Lab;10;4;Regression testing;uruchomienie i raport testów defektów po stworzeniu finalnej wersji ;fixy dzialaja;;;
+;;;???;;;;;
+;;;;;;;;
+Wykład;1;2; Systemy wbudowane - HW + SW;;;;;
+Wykład;2;2; Architektury systemów wbudowanych;;;;;
+Wykład;3;2; Cykl rozwoju systemu wbudowanego;;;;;
+Wykład;4;2; Agile;;;;;
+Wykład;5;2; Specyfikacja wymagań;;;;;
+Wykład;6;2; Scenariusze testowe;;;;;
+Wykład;7;2; Metryki jakości oprogramowania;;;;;
+Wykład;8;2; Dokumentacja;;;;;
+Wykład;9;2; Tworzenie testów;;;;;
+Wykład;10;2; Automatyzacja procesu testowego;;;;;
+Wykład;11;2; Bezpieczeństwo w systemach wbudowanych;;;;;
+Wykład;12;2; Proces wprowadzania zmian;;;;;
