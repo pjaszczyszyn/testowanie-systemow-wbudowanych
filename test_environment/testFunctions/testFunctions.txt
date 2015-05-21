@@ -1,0 +1,14 @@
+
+# Library general API functions
+function getDeviceId(transport)
+{
+   if transport = SSH: return sendReceiveSSH(frameBuilder(API->getDeviceId, SSH), pointer, SSH)
+   if transport = RS232: return sendReceiveRS232(frameBuilder(API->getDeviceId, RS232), pointer, RS232)
+}
+
+function getSensorStatus(sensorId, transport) {
+{
+   if transport = SSH: return sendReceiveSSH(frameBuilder(API->getSensorStatus || sensorId, SSH), pointer, SSH)
+   if transport = RS232: frameBuilder(API->getSensorStatus || sensorId, RS232), pointer, RS232)
+}
+

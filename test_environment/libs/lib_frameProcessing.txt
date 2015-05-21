@@ -1,0 +1,24 @@
+
+
+# Library frame data processing
+
+# function frameBuilder(payload, frameFormat) {
+   define: 
+      formatSSH: 
+         -> address: xxx.xxx.xxx.xxx
+         -> payload: xxxxxxxxxx
+      formatRS232: 
+         -> payload: xxxxxxxxxx
+         -> checksum: xx
+   
+   copy data to payload and return prepared frame
+}
+
+
+# function validateIPv4Address(frame) {
+   formatSSH: 
+         -> address: xxx.xxx.xxx.xxx
+         -> payload: xxxxxxxxxx
+   compare frame->address with pattern 0-255.0-255.0-255.0-255
+   return if ok
+}

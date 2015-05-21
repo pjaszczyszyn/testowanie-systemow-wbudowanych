@@ -1,0 +1,24 @@
+#test 1
+
+// sprawdzenie czy galileo odpowiada na obu interfejsach
+foreach (transport = SSH, RS232) {
+   response = getDeviceId(transport);
+   if response != expectedResponse: log error
+}
+
+
+// zasymulowanie odpowiedzi sensora 
+// sprawdzamy caly zakres danych
+for (data from 0x00 to 0xFF) {
+   simulateSensorResponse(0x01, data)
+   responseSSH = getSensorStatus(data, SSH);
+   responseRS232 = getSensorStatus(data, RS232);
+   
+   // sprawdzamy czy odpowiedzi sa niezalezne od uzytego sposobu komunikacji 
+   if responseSSH != expectedResponse: log error
+   if responseRS232 != expectedResponse: log error
+}
+
+
+if number of errors == 0 PASS
+else FAIL

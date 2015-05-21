@@ -1,0 +1,5 @@
+# Library API definition
+
+define API:
+   ->getDeviceId: 0x12 0x15 0x77
+   ->getSensorStatus: 0x12 0x16 0x??

@@ -1,0 +1,13 @@
+
+# Library RS 232
+function sendReceiveRS232(frame, responsePointer, options)
+{
+    check if rs232 is available - return status if error
+    check if target device is available - return status if error
+    if options->(verify frame to sent is true) check data consistency // warto miec mozliwosc wylaczenia weryfikacji danych w celach testow negatywnych - wysylania blednych danych!
+    send data (frame)
+     receive response
+   if options->(verify received frame is true) check data consistency
+   return response into response pointer
+}
+
